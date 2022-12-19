@@ -1,2 +1,2 @@
-# Vehicle-Detection-with-Open-CV-and-Google-Collaboratory
+# Vehicle Detection with Open CV and Google Collaboratory
 
